@@ -10,6 +10,8 @@
     <a href="https://yellow.atabook.org/">atabook</a> 
   &nbsp;&nbsp;
   <a href="https://retrospring.net/@willbyers">retrospring</a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/1201915598213484607">discord</a>
 </p>
                     
 ujuhhmm also a disclaimer guys my strawpage wasn't made by me it was actually made by MY WONDERFUL FRIEND GITHUB USER @s1llycleric!!!!1 (THIS ALSO MEANS I CANT SEE DRAWINGS RIGHT AWAY) go follow him he's so cool 
