@@ -7,6 +7,8 @@
   &nbsp;&nbsp;
   <a href="https://boycleric.straw.page/">strawpage</a>
   &nbsp;&nbsp;
+  <a href="https://pronouns.cc/@cleric">prns.cc</a>
+  &nbsp;&nbsp;
     <a href="https://yellow.atabook.org/">atabook</a> 
   &nbsp;&nbsp;
   <a href="https://retrospring.net/@willbyers">retrospring</a>
