@@ -16,6 +16,8 @@
   <a href="https://discordapp.com/users/1201915598213484607">discord</a>
 </p>
 
-<p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a></p>
+<p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a>
+
+<a href="https://rentry.co/myroster">my full roster</a></p>
                     
 (for the love of chappel roan pls read this) ujuhhmm also a disclaimer guys my strawpage wasn't made by me it was actually made by MY WONDERFUL FRIEND GITHUB USER @s1llycleric !!!!1 (THIS ALSO MEANS I CANT SEE DRAWINGS UNLESS I ASK) go follow pup, pup's so cool 
