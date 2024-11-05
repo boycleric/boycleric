@@ -22,7 +22,7 @@ art by me! for the love of chappell roan plz don ' t steal it.. it's my nft ^_^
 
 ***
 
-<p align="center">USERBOX HOARD! (HUUUGE WIP)</p>
+<p align="center">USERBOX HOARD! (HUUUGE WIP) (i'll finish it later)</p>
 
 <table id="resulttable" class="userbox" style="border-collapse: collapse; border-color: rgb(255, 255, 255);">
 	<tbody><tr>
