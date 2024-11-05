@@ -19,14 +19,3 @@
 <p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a></p>
 
 art by me! for the love of chappell roan plz don ' t steal it.. it's my nft ^_^
-
-***
-
-<p align="center">USERBOX HOARD! (HUUUGE WIP) (i'll finish it later)</p>
-
-<table id="resulttable" class="userbox" style="border-collapse: collapse; border-color: rgb(255, 255, 255);">
-	<tbody><tr>
-		<td id="resultid" class="id" style="border: 1px solid rgb(255, 255, 255); color: rgb(255, 255, 255); background: rgb(0, 0, 0); line-height: 1.2em;"><img src="https://i.ibb.co/JCYBQDH/power-button.png" height="45" width="45"></td> 
-		<td id="resultinfo" class="info" style="border: 1px solid rgb(255, 255, 255); color: rgb(255, 255, 255); background: rgb(0, 0, 0); line-height: 1.2em;">this user needs to LOG OFF!!</td>
-	</tr>
-</tbody></table>
