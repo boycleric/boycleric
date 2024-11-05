@@ -17,5 +17,5 @@
 </p>
 
 <p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a></p>
-                    
-!!!disclaimer!!! guys my strawpage wasn't made by me it was actually made by MY WONDERFUL FRIEND GITHUB USER @s1llycleric !!!!1 (THIS ALSO MEANS I CANT SEE DRAWINGS UNLESS I ASK) go follow pup, pup's so cool 
+
+art by me! plz don ' t steal it.. it's my nft ^_^
