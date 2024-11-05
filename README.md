@@ -18,4 +18,4 @@
 
 <p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a></p>
 
-art by me! plz don ' t steal it.. it's my nft ^_^
+art by me! for the love of chappell roan plz don ' t steal it.. it's my nft ^_^
