@@ -19,3 +19,22 @@
 <p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a></p>
 
 art by me! for the love of chappell roan plz don ' t steal it.. it's my nft ^_^
+
+***
+
+<p align="center"><a href="https://www.secretmessage.link/secret/672a6fcfa7b42">MY SECRET MESSAGES</a></p>
+
+***"hi skibidi alpha male rizzler boycleric skbidi gyatt ohio rizz master ???????????????? i love u slash piss"***
+i love you too....💛
+
+***"BOOOOOO ( ghost )"***
+AHHHHHHHHHHHHHH!!!!!!
+
+***"4"***
+omg DON'T say that.
+
+***"Will more like WILLYY"***
+wow how original... i am laughing so HARD. 
+
+***"igtard uncle iggy"***
+h...hi 💛
