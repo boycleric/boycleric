@@ -41,3 +41,6 @@ h...hi 💛
 
 ***"hi idk if you'll see this but the short word for Jewish is a slur that ur using/ were using in ur bio not trying to be rude !!"***
 i think you're confusing the word "tew" for the jewish slur.... 
+
+***"hi igtard ????????????"***
+HI. is this you, acerace....
