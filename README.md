@@ -22,7 +22,7 @@ art by me! for the love of chappell roan plz don ' t steal it.. it's my nft ^_^
 
 ***
 
-<p align="center"><a href="https://www.secretmessage.link/secret/672a6fcfa7b42">MY SECRET MESSAGES</a></p>
+<p align="center"><a href="https://www.secretmessage.link/secret/673591cd9c48a/">MY SECRET MESSAGES</a></p>
 
 ***"hi skibidi alpha male rizzler boycleric skbidi gyatt ohio rizz master ???????????????? i love u slash piss"***
 i love you too....💛
@@ -38,9 +38,6 @@ wow how original... i am laughing so HARD.
 
 ***"igtard uncle iggy"***
 h...hi 💛
-
-***"hi idk if you'll see this but the short word for Jewish is a slur that ur using/ were using in ur bio not trying to be rude !!"***
-i think you're confusing the word "tew" for the jewish slur.... 
 
 ***"hi igtard ????????????"***
 HI. is this you, acerace....
