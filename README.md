@@ -2,7 +2,11 @@
 
 <p align="center"> <img src="https://i.ibb.co/Gp61rR5/CALI-CREW.png" width="450" height="300" alt="CALI CREW"/>
 
-<p align="center"> <img src="https://i.ibb.co/h24jT9p/TEXT.png" width="300" height="45" alt="https://rentry.co/californiacrew"/>
+<p align="center">
+  <a href="https://rentry.co/californiacrew" target="_blank">
+    <img src="https://i.ibb.co/h24jT9p/TEXT.png" width="300" height="45" alt="yay"/>
+  </a>
+</p>
 
 ***
 
