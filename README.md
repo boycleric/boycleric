@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://rentry.co/willwise">rentry</a> 
   &nbsp;&nbsp;
-  <a href="https://boymale.straw.page/">strawpage</a>
+  <a href="https://boymale.straw.page/">strawpage 💛</a>
   &nbsp;&nbsp;
   <a href="https://pronouns.cc/@cleric">prns.cc</a>
   &nbsp;&nbsp;
