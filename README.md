@@ -11,7 +11,7 @@
 ***
 
 <p align="center">
-  <a href="https://rentry.co/willwise">rentry</a> 
+  <a href="https://rentry.co/willwise">old rentry</a> 
   &nbsp;&nbsp;
   <a href="https://boymale.straw.page/">strawpage 💛</a>
   &nbsp;&nbsp;
