@@ -1,6 +1,10 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=MY%20LOYAL%20FANS&color=fce144&style=flat" alt="bylr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=PALM%20TREES&color=fce144&style=flat" alt="bylr" /> </p>
 
-<p align="center"> <img src="https://i.ibb.co/XVyGkf2/ill-protect-u-mike.png" width="300" height="300" alt="Computer Hope"/>
+<p align="center"> <img src="https://i.ibb.co/Gp61rR5/CALI-CREW.png" width="450" height="300" alt="CALI CREW"/>
+
+<p align="center"> <img src="https://i.ibb.co/h24jT9p/TEXT.png" width="300" height="45" alt="https://rentry.co/californiacrew"/>
+
+***
 
 <p align="center">
   <a href="https://rentry.co/willwise">rentry</a> 
@@ -17,5 +21,3 @@
 </p>
 
 <p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a></p>
-
-art by me! for the love of chappell roan plz don ' t steal it.. it's my nft ^_^
