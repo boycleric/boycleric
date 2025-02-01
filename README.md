@@ -6,8 +6,6 @@
 ***
 
 <p align="center">
-  rmking rentry
-  &nbsp;&nbsp;
   <a href="https://boymale.straw.page/">strawpage 💛</a>
   &nbsp;&nbsp;
   <a href="https://pronouns.cc/@cleric">prns.cc</a>
