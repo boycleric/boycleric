@@ -10,7 +10,7 @@
   &nbsp;&nbsp;
   <a href="https://pronouns.cc/@cleric">prns.cc</a>
   &nbsp;&nbsp;
-  <a href="https://retrospring.net/@willbyers">retrospring</a>
+  <a href="https://spacehey.com/byers">spacehey</a>
   &nbsp;&nbsp;
   <a href="https://discordapp.com/users/1201915598213484607">discord</a>
 </p>
