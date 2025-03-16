@@ -12,7 +12,7 @@
   &nbsp;&nbsp;
   <a href="https://spacehey.com/byers">spacehey</a>
   &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/1201915598213484607">discord</a>
+  <a href="https://discord.com/users/1201915598213484607">discord</a>
 </p>
 
 <p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a></p>
