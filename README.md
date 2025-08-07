@@ -6,13 +6,9 @@
 ***
 
 <p align="center">
-  <a href="https://boymale.straw.page/">strawpage 💛</a>
-  &nbsp;&nbsp;
   <a href="https://pronouns.cc/@cleric">prns.cc</a>
   &nbsp;&nbsp;
   <a href="https://spacehey.com/byers">spacehey</a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/1201915598213484607">discord</a>
 </p>
 
 <p align="center"><a href="https://rentry.co/ponytownbio">ponytown bio</a></p>
