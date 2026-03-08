@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=PALM%20TREES&color=fce144&style=flat" alt="bylr" /> </p>
 
-<p align="center"> <img src="https://media.discordapp.net/attachments/1296399478374535249/1473857201113399316/blegh.webp?ex=6997bbfb&is=69966a7b&hm=22ff14ea341ed5a6bb96cf63b59f9a09baf1468cec71b040750d08c059c1abbd&=&format=webp&width=509&height=303" width="450" height="293" alt="CALI CREW"/>
+<p align="center"> <img src="https://media.discordapp.net/attachments/1296399478374535249/1473857201113399316/blegh.webp?ex=69aece3b&is=69ad7cbb&hm=b10cb5383ae8f949bb48a37369087ad234c1595edc59973844b42254db12458d&=&format=webp" width="450" height="293" alt="CALI CREW"/>
 
 <p align="center">
   <a href="https://boycleric.straw.page/">strawpage</a>
