@@ -4,7 +4,7 @@
   <a href="https://www.tumblr.com/amberstruck">ac</a>
 </p>
 
-<p align="center"> <img src="https://media.discordapp.net/attachments/1296399478374535249/1482116088954097764/ezgif.com-animated-gif-maker_4.gif?ex=69b5c7ab&is=69b4762b&hm=68454fb39aa41ae5e3faeb38d5596b8d4aecc9e8213ca2b7b63219989784dd51&=&width=857&height=857" width="714" height="714" alt="SPIDEYMJ"/>
+<p align="center"> <img src="https://media.discordapp.net/attachments/1296399478374535249/1482116088954097764/ezgif.com-animated-gif-maker_4.gif?ex=69bb0dab&is=69b9bc2b&hm=a7c5a4e780441250a4f4373c323ad5ad52ece8a2a631d0751e855e1e6b2d2ded&=&width=861&height=861" width="714" height="714" alt="SPIDEYMJ"/>
 
 
 
