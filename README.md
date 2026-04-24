@@ -1,10 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=with%20great%20power%20comes%20great%20responsibility&color=db812c&style=for-the-badge" alt="bylr" /> </p>
+ 
 
-<p align="center">  
-  <a href="https://www.tumblr.com/amberstruck">ac</a>
-</p>
-
-<p align="center"> <img src="https://media.discordapp.net/attachments/1296399478374535249/1493906326320058389/ezgif.com-animated-gif-maker_4.gif?ex=69e0ac2f&is=69df5aaf&hm=002236acfa16003e612ee6b387f0c81c0f56fc07995be6d364d1b3536929ba27&=&width=857&height=857" width="714" height="714" alt="SPIDEYMJ"/>
+<p align="center"> <img src="https://d24nbg944y50dy.cloudfront.net/3okl5%2Fpreview%2F77523576%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1777028654&Signature=OoOPI~EdCXWRlUM6Xx7lWuaV2FRD4nmJefC9ThgzrCll429xWl3zCAfI75r1wmyg4t3H2focguwbso8vfyKm2waudI-88it1ViZgmPjsZuUClDqI5pwRmvI-TI2cvaxMaKgUWW1YsabTqqXBbrIuWqgXnO4LFwRCSrQ4vubWvY7U476bPEbm8as~ukmC9mVDKzo8iIPFHgsS4rk5PbcdXEop6XM84Dl8L~qVsdXIpN4vb4rr3vwZzdMdurjmm3Tmr9~hQFC2skMllpCax0h2tdac91ihxbfo-uNNCCjX49tX7fVPclMkUAYguPb5~~bbBuwovchkEdS0s7JexBNpSQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="714" height="714" alt="SPIDEYMJ"/>
 
 
 
