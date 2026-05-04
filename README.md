@@ -1,7 +1,7 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=with%20great%20power%20comes%20great%20responsibility&color=db812c&style=for-the-badge" alt="bylr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=with%20great%20power%20comes%20great%20responsibility&color=blue&style=plastic" alt="bylr" /> </p>
  
 
-<p align="center"> <img src="https://media.discordapp.net/attachments/1296399478374535249/1496686045196976168/bylerfountainguitar.gif?ex=69ec1a80&is=69eac900&hm=12b3658d7bae8d01bf15d562dc603858e39f3c71cba99cde977c3060839d5f35&=&width=900&height=675" width="800" height="714" alt="bylerdachi"/>
+<p align="center"> <img src="https://i.ibb.co/MyZN4yXX/badhyde.png" width="338" height="251" alt="wyler"/>
 
 
 
