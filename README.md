@@ -8,9 +8,7 @@
 <p align="center">
   <a href="https://rentry.co/spideywill">rentry</a>
   &nbsp;&nbsp;
-  <a href="https://boycleric.straw.page/">strawpage</a>
-  &nbsp;&nbsp;
-    <a href="https://yellow.atabook.org/">atabook</a> 
+    <a href="https://yellow.atabook.org/">新book</a> 
   &nbsp;&nbsp;
 </p>
 
