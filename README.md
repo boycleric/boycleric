@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=with%20great%20power%20comes%20great%20responsibility&color=blue&style=plastic" alt="bylr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=with%20great%20power%20comes%20great%20responsibility&color=ff7a66&style=plastic" alt="bylr" /> </p>
  
 
 <p align="center"> <img src="https://i.ibb.co/MyZN4yXX/badhyde.png" width="338" height="251" alt="wyler"/>
