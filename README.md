@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://rentry.co/spideywill">rentry</a>
+  <a href="https://github.com/witchingtrials">rentry wip</a>
   &nbsp;&nbsp;
     <a href="https://yellow.atabook.org/">新book</a> 
   &nbsp;&nbsp;
