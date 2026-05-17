@@ -12,9 +12,3 @@
   &nbsp;&nbsp;
 </p>
 
-
- <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nxy9aa2smpdjkrrbx547hnjj0&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff7a66&bar_color_cover=false">
-  </a>
-</p>
