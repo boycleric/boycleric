@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bylrx&label=with%20great%20power%20comes%20great%20responsibility&color=ff7a66&style=plastic" alt="bylr" /> </p>
  
 
-<p align="center"> <img src="https://i.ibb.co/MyZN4yXX/badhyde.png" width="338" height="251" alt="wyler"/>
+<p align="center"> <img src="https://file.garden/agiJ73V3JAahZNUJ/harutarou.webp" width="400" height="250" alt="wyler"/>
 
 
 
@@ -15,8 +15,8 @@
 </p>
 
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nxy9aa2smpdjkrrbx547hnjj0&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nxy9aa2smpdjkrrbx547hnjj0&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff7a66&bar_color_cover=false">
   </a>
 </p>
